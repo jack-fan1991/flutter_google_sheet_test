@@ -1,0 +1,1 @@
+ /Users/jack/work/git/owlmarket_qa_connect/.dart_tool/flutter_gen/gen_l10n/app_localizations_zh.dart /Users/jack/work/git/owlmarket_qa_connect/untranslated_messages.txt /Users/jack/work/git/owlmarket_qa_connect/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/jack/work/git/owlmarket_qa_connect/l10n.yaml /Users/jack/work/git/owlmarket_qa_connect/lib/l10n/app_zh.arb

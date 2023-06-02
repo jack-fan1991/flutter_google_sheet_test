@@ -1,0 +1,86 @@
+{
+  "appTitle": "奧丁丁市集訂單報表",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "totalOrders": "總共 {order} 張訂單",
+  "@totalOrders": {
+    "placeholders": {
+      "order": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersFrom": "從： {dateTime} ",
+  "@ordersFrom": {
+    "placeholders": {
+      "dateTime": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersTo": "到： {dateTime} ",
+  "@ordersTo": {
+    "placeholders": {
+      "dateTime": {
+        "type": "String"
+      }
+    }
+  },
+
+  "salesFiguresRanking": "銷售額排名",
+  "salesFigures": "銷售額： ${figure} ",
+  "@salesFigures": {
+    "placeholders": {
+      "figure": {
+        "type": "int"
+      }
+    }
+  },
+
+  "firstPlaceVendor": "第一名： {vendor} ${figure}",
+  "@firstPlaceVendor": {
+    "placeholders": {
+      "vendor": {
+        "type": "String"
+      },
+      "figure": {
+        "type": "int"
+      }
+    }
+  },
+  "secondPlaceVendor": "第二名： {vendor} ${figure}",
+  "@secondPlaceVendor": {
+    "placeholders": {
+      "vendor": {
+        "type": "String"
+      },
+      "figure": {
+        "type": "int"
+      }
+    }
+  },
+  "thirdPlaceVendor": "第三名： {vendor} ${figure}",
+  "@thirdPlaceVendor": {
+    "placeholders": {
+      "vendor": {
+        "type": "String"
+      },
+      "figure": {
+        "type": "int"
+      }
+    }
+  },
+
+  "categoryStatistics": "類別金額統計",
+
+  "ordersReport": "訂單報表",
+
+  "importOrdersFileFirst": "請先匯入訂單資料檔",
+  "menuImportOrdersFile": "匯入訂單資料檔",
+  "menuImportGA": "導入 GA 資料",
+  "menuExportToGoogleSheet": "匯出至 Google Sheet",
+
+  "menuGoToGoogleSheet": "前往 Google Sheet"
+}
